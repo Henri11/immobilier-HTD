@@ -213,8 +213,11 @@ footer a:active {
     color: red;
 }
 
-/*
-.ok{
-    width: 100%;
+/*MEDIA QUERIES*/
+@media screen and (max-width: 768px) {
+  .well-title,.ook {
+    display:none;
+    
+  }
+    
 }
-*/
