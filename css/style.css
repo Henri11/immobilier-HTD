@@ -255,5 +255,8 @@ footer img {
     display:none;
     
   }
+    .btn-info{
+        background: #17A2B8;
+    }
     
 }
