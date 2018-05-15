@@ -89,7 +89,7 @@ img{
     background-size: cover;
     background-position: right;
     height: 700px;
-    width: 1300px;
+    width: 100%;
 }
 /*VENDRE*/
 .vendre-img{
@@ -97,7 +97,24 @@ img{
     background-size: cover;
     background-position: right;
     height: 700px;
-    width: 1300px;
+    width: 100%;
+}
+
+/*MAISON*/
+
+.maison-img{
+     background: url('../img/living-room-2037945_1920%20copy.jpg');
+    background-size: cover;
+    background-position: right;
+    height: 700px;
+    width: 100%;
+}
+
+.detail-maison-h1{
+    margin: 25px 0 25px 0;
+    color: ;
+    text-decoration: ;
+    
 }
 
 /*CONTACT*/
